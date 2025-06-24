@@ -5,7 +5,7 @@
 ---
 
 #### **1. Email Screenshot & Overview**  
-![CEO Fraud Email](62aa4452d105a166f577232c_CEO-fraud-email-ResearchGate-746988150.png)  
+![CEO Fraud Email](6082ee0e95eb6459d78fac06/62aa4452d105a166f577232c_CEO-fraud-email-ResearchGate.png)  
 
 **Key Details**:  
 - **Sender**: `Giles Garcia <ceo.webmail.1337@hotmail.com>`  
